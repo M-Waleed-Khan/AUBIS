@@ -1,0 +1,10 @@
+D:\Waleed Study\SECOND SEMESTER\Mids\Object Oriented Programming cs-200\Projects\AUBIS\AUBIS\bin\Debug\AUBIS.exe.config
+D:\Waleed Study\SECOND SEMESTER\Mids\Object Oriented Programming cs-200\Projects\AUBIS\AUBIS\bin\Debug\AUBIS.exe
+D:\Waleed Study\SECOND SEMESTER\Mids\Object Oriented Programming cs-200\Projects\AUBIS\AUBIS\bin\Debug\AUBIS.pdb
+D:\Waleed Study\SECOND SEMESTER\Mids\Object Oriented Programming cs-200\Projects\AUBIS\AUBIS\obj\Debug\AUBIS.csprojResolveAssemblyReference.cache
+D:\Waleed Study\SECOND SEMESTER\Mids\Object Oriented Programming cs-200\Projects\AUBIS\AUBIS\obj\Debug\AUBIS.Properties.Resources.resources
+D:\Waleed Study\SECOND SEMESTER\Mids\Object Oriented Programming cs-200\Projects\AUBIS\AUBIS\obj\Debug\AUBIS.csproj.GenerateResource.Cache
+D:\Waleed Study\SECOND SEMESTER\Mids\Object Oriented Programming cs-200\Projects\AUBIS\AUBIS\obj\Debug\AUBIS.exe
+D:\Waleed Study\SECOND SEMESTER\Mids\Object Oriented Programming cs-200\Projects\AUBIS\AUBIS\obj\Debug\AUBIS.pdb
+D:\Waleed Study\SECOND SEMESTER\Mids\Object Oriented Programming cs-200\Projects\AUBIS\AUBIS\obj\Debug\AUBIS.Login.resources
+D:\Waleed Study\SECOND SEMESTER\Mids\Object Oriented Programming cs-200\Projects\AUBIS\AUBIS\obj\Debug\AUBIS.AUBISf.resources

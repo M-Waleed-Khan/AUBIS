@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<AubisData xmlns="http://tempuri.org/AubisData.xsd">
+  <AUBIS>
+    <FullName>Test1</FullName>
+    <Contact>123123</Contact>
+    <BloodGroup>ab-</BloodGroup>
+    <Address>Address1</Address>
+    <ID>-12</ID>
+  </AUBIS>
+  <AUBIS>
+    <FullName>WALEED</FullName>
+    <Contact>123</Contact>
+    <BloodGroup>b</BloodGroup>
+    <Address>adhasd</Address>
+    <ID>-13</ID>
+  </AUBIS>
+  <AUBIS>
+    <FullName>waleed</FullName>
+    <Contact>123</Contact>
+    <BloodGroup>123</BloodGroup>
+    <Address>alksjdlkajslkd jalskjd lkjaslkdj laksjd lkjasldkj laksjdlkaj slkdj lkjaslkdj laskjd lkaslkdj kalsjdlkj</Address>
+    <ID>-15</ID>
+  </AUBIS>
+  <AUBIS>
+    <FullName>walee</FullName>
+    <Contact>123</Contact>
+    <BloodGroup>b-</BloodGroup>
+    <Address>asd</Address>
+    <ID>-16</ID>
+  </AUBIS>
+</AubisData>
